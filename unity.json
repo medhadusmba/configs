@@ -1,6 +1,9 @@
 {
   "AdNetwork": "facebook",
   "IronSourceAppKey":"ec90f791",
+  "IronSourceBannerId":"DefaultBanner",
+  "IronSourceInterstitialId":"DefaultInterstitial",
+  "IronSourceRewardedVideoId":"DefaultRewardedVideo",
   "FacebookBannerId":"IMG_16_9_LINK#3066548090335702_3066549000335611",
   "FacebookInterstitialId":"IMG_16_9_APP_INSTALL#3066548090335702_3069792100011301",
   "FacebookRewardedVideoId":"VID_HD_16_9_46S_LINK#3066548090335702_3066552290335282"
