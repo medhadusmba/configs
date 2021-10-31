@@ -1,1 +1,1 @@
-{"gameName":"Peppernie Pepe","storeLink":"https://play.google.com/store/apps/details?id=com.gley.pepperonipepe","imageUrls":["https://configs.onrender.com/readlinegreenline3dgame/screen.png"]}
+{"gameName":"Peppernie Pepe","storeLink":"https://www.google.com","imageUrls":["https://configs.onrender.com/readlinegreenline3dgame/screen.png"]}
