@@ -1,7 +1,7 @@
 {
-   "bannerMediation":0,
-   "interstitialMediation":0,
-   "rewardedMediation":0,
+   "bannerMediation":1,
+   "interstitialMediation":1,
+   "rewardedMediation":1,
    "advertisers":[
       {
          "advertiser":9,
