@@ -1,1 +1,1 @@
-{"gameName":"Peppernie Pepe","storeLink":"https://www.google.com","imageUrls":["https://configs.onrender.com/readlinegreenline3dgame/screen.png"]}
+{"gameName":"","storeLink":"","imageUrls":[""]}
